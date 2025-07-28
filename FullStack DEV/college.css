@@ -1,0 +1,16 @@
+.div1{
+    height: 100px;
+    position: relative;
+    background-color: aqua;
+    border: none;
+}
+.h1{
+    font-size: 50ox;
+    text-align: center;
+    
+}
+.div2{
+    
+    display: inline-block;
+
+}
